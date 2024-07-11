@@ -1,0 +1,1 @@
+# print pass if student's grade is 50 or higher an "Fail" otherwise
